@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Hva er navnet på denne statuen?",
+    "video": "videos/Heykel.mp4",
+    "choice1": "Be a muslim",
+    "choice2": "Freedom for evryone",
+    "choice3": "dont be a stranger",
+    "choice4": "smil til alle",
+    "answer": 3
+  },
+  {
+    "question": "Hva heter bygningen ved siden av statuen?",
+    "video": "videos/Askerkulturhuset.mp4",
+    "choice1": "Asker Bibloteket",
+    "choice2": "Asker Kulturhuset",
+    "choice3": "Asker Museum",
+    "choice4": "Asker Kirke",
+    "answer": 2
+  },
+  {
+    "question": "Hvor er her?",
+    "video": "videos/Heggedal.mp4",
+    "choice1": "Heggedal",
+    "choice2": "Lahell",
+    "choice3": "Hyggen",
+    "choice4": "Røyken",
+    "answer": 1
+  },
+  {
+    "question": "Hvor er her?",
+    "video": "videos/Dihkemark.mp4",
+    "choice1": "Klokkarstua",
+    "choice2": "Tofte",
+    "choice3": "Filtvet",
+    "choice4": "Dihkemark",
+    "answer": 4
+  },
+  {
+    "question": "Hvor er her?",
+    "video": "videos/Spikkstad.mp4",
+    "choice1": "Sætre",
+    "choice2": "Spikkestad",
+    "choice3": "Filtvet",
+    "choice4": "Lahell",
+    "answer": 2
+  }
+]
